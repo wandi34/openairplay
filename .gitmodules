@@ -1,0 +1,3 @@
+[submodule "pyatv"]
+	path = pyatv
+	url = git@github.com:postlund/pyatv.git
