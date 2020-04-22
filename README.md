@@ -20,7 +20,7 @@ https://github.com/robobenklein/openairplay/milestones
 
 ## Project Details:
 
-Right now it's Python 3 using the QT system from PyQt4.  
+Right now it's Python 3 using the QT system from PyQt5.  
 It is designed in an Ubuntu Unity environment, but the application should work on any platform with Python 3 and a system tray.  
 From my last testing, this ran fine on my Dad's Windows 8 laptop, and I've tested Ubuntu 14.04 to 15.10.
 

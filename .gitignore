@@ -74,3 +74,7 @@ Session.vim
 
 # Linux trash folder which might appear on any partition or disk
 .Trash-*
+
+# IDEs
+.kdev4
+openairplay.kdev4
